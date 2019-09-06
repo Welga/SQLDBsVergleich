@@ -23,6 +23,8 @@ namespace SQLDBsVergleich
         public MainWindow()
         {
             InitializeComponent();
+
+            //225225225
         }
     }
 }
